@@ -6,7 +6,7 @@ export const heroData = {
   tags: ["Java", "Spring Boot", "Microservices", "MySQL", "Docker"],
   github: "https://github.com/ZoroHunter-007",
   email: "dhruvmalusare13@gmail.com",
-  resumeLink: "Dhruv Malusare _ Resume.pdf",
+  resumeLink: "Dhruv Malusare_Resume.pdf",
 };
 
 export const aboutData = {
