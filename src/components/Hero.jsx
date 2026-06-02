@@ -159,17 +159,16 @@ export default function Hero() {
           >
             View Projects
           </motion.a>
-          <motion.a
-            href={heroData.resumeLink}
-            download
-            target="_blank"
-            rel="noreferrer"
-            className="outline-btn"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            Download Resume
-          </motion.a>
+         <motion.a
+          href={heroData.resumeLink}
+          target="_blank"
+          rel="noreferrer"
+          className="outline-btn"
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95 }}
+        >
+          Download Resume
+        </motion.a>
         </motion.div>
 
         {/* Scroll indicator */}
